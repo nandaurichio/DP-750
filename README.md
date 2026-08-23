@@ -22,10 +22,10 @@ Este repositório reúne minhas anotações, scripts SQL/PySpark, laboratórios 
 
 | # | Data | Percurso de Aprendizagem (Trilha Oficial) | Ambiente | Link no repositório | Link na Microsoft Learn |
 |---|------|-------------------------------------------|----------|----------------------|--------------------------|
-| 01 | 22/08/2026 | Configurar e preparar um ambiente Azure Databricks | Databricks Free | [01-configurar-ambiente](./01-configurar-ambiente) | [Microsoft Learn](https://microsoft.com) |
-| 02 | - | Proteger e governar objetos do Unity Catalog no Azure Databricks | Databricks Free | [02-proteger-unity-catalog](./02-proteger-unity-catalog) | [Microsoft Learn](https://microsoft.com) |
-| 03 | - | Preparar e processar dados com Azure Databricks | Databricks Free | [03-processar-dados](./03-processar-dados) | [Microsoft Learn](https://microsoft.com) |
-| 04 | - | Implementar e manter pipelines de dados e cargas de trabalho | Teórico / Lab | [04-pipelines-cargas](./04-pipelines-cargas) | [Microsoft Learn](https://microsoft.com) |
+| 01 | 22/08/2026 | Configurar e preparar um ambiente Azure Databricks | Databricks Free | [01-configurar-ambiente](./01-configurar-ambiente) | [Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/azure-databricks-data-engineer-set-up-configure-environment/) |
+| 02 | - | Proteger e governar objetos do Unity Catalog no Azure Databricks | Databricks Free | [02-proteger-unity-catalog](./02-proteger-unity-catalog) | [Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/azure-databricks-data-engineer-secure-govern-unity-catalog/) |
+| 03 | - | Preparar e processar dados com Azure Databricks | Databricks Free | [03-processar-dados](./03-processar-dados) | [Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/azure-databricks-data-engineer-prepare-process-data/) |
+| 04 | - | Implementar e manter pipelines de dados e cargas de trabalho | Teórico / Lab | [04-pipelines-cargas](./04-pipelines-cargas) | [Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/azure-databricks-data-engineer-deploy-maintain-data-pipelines-workloads/) |
 
 > 💡 As datas e os links de pastas serão atualizados à medida que eu concluir os laboratórios práticos de cada um dos 4 percursos.
 
